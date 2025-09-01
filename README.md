@@ -9,6 +9,11 @@ Cada seção está comentada para facilitar futuras edições.
 
 <br>
 
+<!-- Texto simples substituindo animação -->
+<div align="center" style="color:#D7CCC8; font-style: italic; font-size: 20px; font-family: 'Courier New', Courier, monospace;">
+  Estudante de Análise e Desenvolvimento de Sistemas
+</div>
+
 <!-- Nome e título -->
 <div align="center" style="color:#D7CCC8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <h1 style="margin-bottom: 0;">ルーカス・イベル</h1>
@@ -24,13 +29,6 @@ Cada seção está comentada para facilitar futuras edições.
   <b>Análise e Desenvolvimento de Sistemas</b>.  
   Ainda não possuo experiência profissional na área, mas estou em busca da minha primeira oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor. 🚀
 </p>
-
-<br>
-
-<!-- Texto simples substituindo animação -->
-<div align="center" style="color:#D7CCC8; font-style: italic; font-size: 20px; font-family: 'Courier New', Courier, monospace;">
-  Estudante de Análise e Desenvolvimento de Sistemas
-</div>
 
 <br>
 
