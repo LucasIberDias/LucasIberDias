@@ -4,8 +4,10 @@ Este arquivo serve como apresentação no perfil do GitHub.
 Cada seção está comentada para facilitar futuras edições.
 -->
 
-<!-- Banner animado no topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B5E3C"/>
+<!-- Texto animado -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=D7CCC8&center=true&vCenter=true&width=500&lines=Seja+bem-vindo" alt="Typing SVG" />
+</div>
 
 <br>
 
