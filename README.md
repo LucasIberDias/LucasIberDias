@@ -11,11 +11,6 @@ Cada seção está comentada para facilitar futuras edições.
 
 <br>
 
-<!-- Texto simples substituindo animação -->
-<div align="center" style="color:#D7CCC8; font-style: italic; font-size: 20px; font-family: 'Courier New', Courier, monospace;">
-  Seja bem-vindo
-</div>
-
 <!-- Nome e título -->
 <div align="center" style="color:#D7CCC8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <h1 style="margin-bottom: 0;">ルーカス・イベル</h1>
