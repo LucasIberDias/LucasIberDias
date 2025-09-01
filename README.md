@@ -29,7 +29,7 @@ Cada seção está comentada para facilitar futuras edições.
 
 <!-- Texto simples substituindo animação -->
 <div align="center" style="color:#D7CCC8; font-style: italic; font-size: 20px; font-family: 'Courier New', Courier, monospace;">
-  Eu sou brasileiro • Estudo Análise e Desenvolvimento de Sistemas • Seja bem-vindo!
+  Estudante de Análise e Desenvolvimento de Sistemas
 </div>
 
 <br>
@@ -45,6 +45,13 @@ Cada seção está comentada para facilitar futuras edições.
   </div>
 
 </div>
+<!-- Tecnologias (ícones) -->
+<div align="center" style="color:#D7CCC8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
+    <img width="50" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <!-- Adicione mais ícones aqui se quiser -->
+  </div>
+</div>
 
 <br>
 
@@ -54,15 +61,6 @@ Cada seção está comentada para facilitar futuras edições.
 </div>
 
 <br>
-
-<!-- Tecnologias (ícones) -->
-<div align="center" style="color:#D7CCC8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <h3>Principais Tecnologias</h3>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
-    <img width="50" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <!-- Adicione mais ícones aqui se quiser -->
-  </div>
-</div>
 
 <br><br>
 
