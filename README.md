@@ -10,8 +10,8 @@ Cada seção está comentada para facilitar futuras edições.
 <br>
 
 <!-- Nome e título -->
-<div align="center">
-  <b>`ルーカス・イベル`</b>
+<div align="center" style="color:#97512d;">
+  <b>ルーカス・イベル</b>
   <samp>
       <br>
       Olá! Eu sou <b>Lucas Iber Dias</b>
@@ -19,34 +19,26 @@ Cada seção está comentada para facilitar futuras edições.
 </div>
 
 <!-- Sobre mim logo abaixo -->
-<p align="center">
+<p align="center" style="color:#97512d;">
   Tenho 18 anos e atualmente sou estudante do 
   <b>Instituto Federal do Paraná – Campus Cascavel</b>, cursando 
   <b>Análise e Desenvolvimento de Sistemas</b>.  
   Ainda não possuo experiência profissional na área, mas estou em busca da minha primeira oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor. 🚀
 </p>
 
-<!-- Texto animado digitando -->
+<!-- Texto animado digitando (badge animado com cor marrom) -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=97512d&width=900&size=22&center=true&lines=Eu+sou+brasileiro;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=97512d&width=900&size=22&center=true&pause=1000&repeat=true&lines=Eu+sou+brasileiro;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo!" alt="Typing SVG"/>
 </div>
 
-<br>
-
-<!-- Pequeno "apelido" estilizado -->
-<div align="center">
-  <img src="https://img.shields.io/badge/_skuggar-black" />
-</div>
-      
-<br>
 <br>
 
 <!-- Estatísticas do GitHub -->
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=LucasIberDias&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIberDias&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=LucasIberDias&show_icons=true&count_private=true&rank_icon=github&theme=radical&font=Iosevka&title_color=97512d&icon_color=97512d&text_color=97512d&bg_color=00000000"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIberDias&layout=compact&font=Iosevka&langs_count=16&theme=radical&title_color=97512d&icon_color=97512d&text_color=97512d&bg_color=00000000"/>
   <br><br>
-  <img align="center" alt="Resumo do Perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasIberDias&theme=gotham"/>
+  <img align="center" alt="Resumo do Perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasIberDias&theme=radical"/>
 </div>
 
 <!-- Tecnologias -->
@@ -58,7 +50,7 @@ Cada seção está comentada para facilitar futuras edições.
 <br>
 
 <!-- Projetos em Destaque -->
-<div align="center">
+<div align="center" style="color:#97512d;">
   <samp>
     <b>🚀 Projetos em Destaque</b>
   </samp>
@@ -68,12 +60,12 @@ Cada seção está comentada para facilitar futuras edições.
 
 <!-- Cartões automáticos de repositórios -->
 <div align="center">
-  <!-- Substitua "NOME_DO_REPOSITORIO" pelos seus projetos -->
+  <!-- Substitua pelos seus projetos reais -->
   <a href="https://github.com/LucasIberDias/LucasIberDias">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasIberDias&repo=NOME_DO_REPOSITORIO&theme=gotham" />
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasIberDias&repo=LucasIberDias&theme=radical&title_color=97512d&icon_color=97512d&text_color=97512d&bg_color=00000000" />
   </a>
   <a href="https://github.com/LucasIberDias/todolist">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasIberDias&repo=NOME_DO_REPOSITORIO2&theme=gotham" />
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasIberDias&repo=todolist&theme=radical&title_color=97512d&icon_color=97512d&text_color=97512d&bg_color=00000000" />
   </a>
 </div>
 
@@ -81,7 +73,7 @@ Cada seção está comentada para facilitar futuras edições.
 <br>
 
 <!-- Seção expandível com mais informações -->
-<details align="center">  
+<details align="center" style="color:#97512d;">  
   <summary>
       <samp>
         <b>Mais Informações</b>
@@ -101,9 +93,9 @@ Cada seção está comentada para facilitar futuras edições.
   </samp>
 </div>
 
-<p align="center">
+<p align="center" style="color:#97512d;">
   📚 Aqui vou adicionar futuramente meus certificados, como os da 
-  <a href="https://www.dio.me/" target="_blank"><b>DIO</b></a>.  
+  <a href="https://www.dio.me/" target="_blank" style="color:#97512d;"><b>DIO</b></a>.  
   Cada curso terá um ícone, link direto para o certificado e ficará organizado nesta seção.
 </p>
 
@@ -113,24 +105,11 @@ Cada seção está comentada para facilitar futuras edições.
     <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO" width="120"/>
   </a>
   <br>
-  <sub>Certificado Exemplo - <a href="LINK_DO_CERTIFICADO">ver certificado</a></sub>
+  <sub>Certificado Exemplo - <a href="LINK_DO_CERTIFICADO" style="color:#97512d;">ver certificado</a></sub>
 </div>
 
 <br>
 <br>
-
-<!-- Contato -->
-<div align="center">
-  <samp>
-    <b>Entre em contato comigo:</b>
-  </samp>
-  <br><br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-97512d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-97512d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)
-  [![TikTok](https://img.shields.io/badge/TikTok-97512d?style=for-the-badge&logo=tiktok&logoColor=fff)](https://www.tiktok.com/@skuggar)
-  [![Discord](https://img.shields.io/badge/Discord-97512d?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/_skuggar)
-</div>
 
 </details>
 
@@ -143,7 +122,20 @@ Cada seção está comentada para facilitar futuras edições.
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLucasIberDias&s=30&c=97512d&bg=00000000&no=2&ff=digi&tb=Visitas+ao+perfil%3A++&ta=" /></p> 
 </div>
 
+<!-- Redes sociais movidas para cá -->
+<div align="center" style="color:#97512d; margin-top: 10px;">
+  <samp>
+    <b>Entre em contato comigo:</b>
+  </samp>
+  <br><br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-97512d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-97512d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)
+  [![TikTok](https://img.shields.io/badge/TikTok-97512d?style=for-the-badge&logo=tiktok&logoColor=fff)](https://www.tiktok.com/@skuggar)
+  [![Discord](https://img.shields.io/badge/Discord-97512d?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/_skuggar)
+</div>
+
 <br>
 
 <!-- Banner animado no rodapé -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=97512d&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=97512d&height=100&section=footer"/>
