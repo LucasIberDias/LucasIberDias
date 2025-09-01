@@ -6,7 +6,7 @@ Cada seção está comentada para facilitar futuras edições.
 
 <!-- Texto animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=D7CCC8&center=true&vCenter=true&width=600&lines=Seja+bem-vindo+ao+repositório+de+Algoritmos!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=D7CCC8&center=true&vCenter=true&width=500&lines=Seja+bem-vindo" alt="Typing SVG" />
 </div>
 
 <br>
