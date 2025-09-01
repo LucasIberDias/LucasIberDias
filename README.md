@@ -69,10 +69,10 @@ Cada seção está comentada para facilitar futuras edições.
 <!-- Cartões automáticos de repositórios -->
 <div align="center">
   <!-- Substitua "NOME_DO_REPOSITORIO" pelos seus projetos -->
-  <a href="https://github.com/LucasIberDias/NOME_DO_REPOSITORIO">
+  <a href="https://github.com/LucasIberDias/LucasIberDias">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasIberDias&repo=NOME_DO_REPOSITORIO&theme=gotham" />
   </a>
-  <a href="https://github.com/LucasIberDias/NOME_DO_REPOSITORIO2">
+  <a href="https://github.com/LucasIberDias/todolist">
     <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasIberDias&repo=NOME_DO_REPOSITORIO2&theme=gotham" />
   </a>
 </div>
