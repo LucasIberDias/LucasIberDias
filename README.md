@@ -11,7 +11,7 @@ Cada seção está comentada para facilitar futuras edições.
 
 <!-- Texto simples substituindo animação -->
 <div align="center" style="color:#D7CCC8; font-style: italic; font-size: 20px; font-family: 'Courier New', Courier, monospace;">
-  Estudante de Análise e Desenvolvimento de Sistemas
+  Seja bem-vindo
 </div>
 
 <!-- Nome e título -->
