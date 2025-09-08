@@ -128,7 +128,6 @@ Cada seção está comentada para facilitar futuras edições.
 
   [![Gmail](https://img.shields.io/badge/Gmail-8B5E3C?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)
-  [![TikTok](https://img.shields.io/badge/TikTok-8B5E3C?style=for-the-badge&logo=tiktok&logoColor=fff)](https://www.tiktok.com/@skuggar)
   [![Discord](https://img.shields.io/badge/Discord-8B5E3C?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/_skuggar)
 </div>
 
