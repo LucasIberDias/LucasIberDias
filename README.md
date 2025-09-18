@@ -71,9 +71,8 @@
 <!-- Contato -->
 <div align="center">
   <b>Entre em contato comigo:</b><br><br>
-  [![Gmail](https://img.shields.io/badge/Gmail-8B5E3C?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)
-  [![Discord](https://img.shields.io/badge/Discord-8B5E3C?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/_skuggar)
+  [![Gmail](https://img.shields.io/badge/Gmail-8B5E3C?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)]
+  [![Instagram](https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)]
 </div>
 
 <br>
