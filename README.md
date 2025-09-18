@@ -4,7 +4,7 @@
 
 <!-- Texto animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=D7CCC8&center=true&vCenter=true&width=500&lines=Seja+bem-vindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/demo.php?font=Courier+New&size=24&duration=3000&pause=1000&color=D7CCC8&center=true&vCenter=true&width=500&lines=Seja+bem-vindo" alt="Typing SVG" />
 </div>
 
 <br>
@@ -31,14 +31,19 @@
   <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIberDias&layout=compact&theme=dark&bg_color=1E1E1E&title_color=D7CCC8&icon_color=8B5E3C&text_color=D7CCC8&border_radius=10" />
 </div>
 
+<br>
+
 <!-- Tecnologias -->
+<h2 align="center">💻 Tecnologias</h2>
 <div align="center">
   <img width="50" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <!-- Adicione mais ícones de tecnologia aqui, se desejar -->
 </div>
 
 <br>
 
 <!-- Resumo -->
+<h2 align="center">📈 Resumo do Perfil</h2>
 <div align="center">
   <img alt="Resumo do Perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasIberDias&theme=dark" />
 </div>
@@ -71,8 +76,8 @@
 <!-- Contato -->
 <div align="center">
   <b>Entre em contato comigo:</b><br><br>
-  [![Gmail](https://img.shields.io/badge/Gmail-8B5E3C?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)]
-  [![Instagram](https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)]
+  [![Gmail](https://img.shields.io/badge/Gmail-8B5E3C?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)
 </div>
 
 <br>
