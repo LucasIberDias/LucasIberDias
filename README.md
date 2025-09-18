@@ -79,16 +79,5 @@
 
 <br>
 
-<!-- Contato -->
-<div align="center">
-  <b>Entre em contato comigo:</b><br><br>
-  [![Gmail](https://img.shields.io/badge/Gmail-8B5E3C?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-perfil-linkedin) <!-- SUBSTITUA PELA SUA URL DO LINKEDIN -->
-  [![GitHub](https://img.shields.io/badge/GitHub-8B5E3C?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/LucasIberDias)
-</div>
-
-<br>
-
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=100&section=footer"/>
