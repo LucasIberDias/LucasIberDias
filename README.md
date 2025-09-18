@@ -74,7 +74,7 @@ Cada seção está comentada para facilitar futuras edições.
   </a>
 
   <a href="https://github.com/LucasIberDias/todolist" style="text-decoration: none;">
-    <img width="350" alt="Projeto todolist" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasIberDias&repo=todolist&theme=dark&bg_color=1E1E1E&title_color=D7CCC8&icon_color=8B5E3C&text_color=D7CCC8&border_radius=10" />
+    <img width="350" alt="Algoritmos em java" src="https://github.com/LucasIberDias/algoritmos&theme=dark&bg_color=1E1E1E&title_color=D7CCC8&icon_color=8B5E3C&text_color=D7CCC8&border_radius=10" />
   </a>
 
 </div>
