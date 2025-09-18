@@ -2,9 +2,9 @@
 ⭐ README de Lucas Iber Dias 
 -->
 
-<!-- Texto animado -->
+<!-- Texto animado (Certifique-se de que este URL esteja gerando o texto desejado no Readme-Typing-SVG) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo.php?font=Courier+New&size=24&duration=3000&pause=1000&color=D7CCC8&center=true&vCenter=true&width=500&lines=Seja+bem-vindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=D7CCC8&center=true&vCenter=true&width=500&lines=Seja+bem-vindo!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -34,10 +34,16 @@
 <br>
 
 <!-- Tecnologias -->
-<h2 align="center">💻 Tecnologias</h2>
+<h2 align="center">💻 Tecnologias e Ferramentas</h2>
 <div align="center">
   <img width="50" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <!-- Adicione mais ícones de tecnologia aqui, se desejar -->
+  <img width="50" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="50" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="50" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="50" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="50" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <!-- Adicione mais ícones de tecnologia que você usa ou está aprendendo! -->
+  <!-- Exemplos: Python, C#, Spring, MySQL, PostgreSQL, Docker, React, Angular, Vue, Figma, etc. -->
 </div>
 
 <br>
@@ -78,6 +84,8 @@
   <b>Entre em contato comigo:</b><br><br>
   [![Gmail](https://img.shields.io/badge/Gmail-8B5E3C?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seu-perfil-linkedin) <!-- SUBSTITUA PELA SUA URL DO LINKEDIN -->
+  [![GitHub](https://img.shields.io/badge/GitHub-8B5E3C?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/LucasIberDias)
 </div>
 
 <br>
