@@ -2,9 +2,9 @@
 
 <!-- Texto animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Courier+New&size=24&duration=3000&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=Seja+bem-vindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=D7CCC8&center=true&vCenter=true&width=500&lines=Seja+bem-vindo" alt="Typing SVG" />
 </div>
-<br>
+
 
 <!-- Nome e título -->
 <h1 align="center">ルーカス・イベル</h1>
@@ -68,18 +68,19 @@
 
 <!-- Contador de visitas -->
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLucasIberDias&s=30&c=4169E1&bg=1E1E1E&no=2&ff=digi&tb=Visitas+ao+perfil%3A++&ta=" alt="Contador de visitas" />
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLucasIberDias&s=30&c=8B5E3C&bg=1E1E1E&no=2&ff=digi&tb=Visitas+ao+perfil%3A++&ta=" alt="Contador de visitas" />
 </div>
-<br>
 
 <!-- Redes sociais -->
 <div align="center">
   <b>Entre em contato comigo:</b>
   <br><br>
-  [![Gmail](https://img.shields.io/badge/Gmail-4169E1?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-4169E1?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)
-  [![Discord](https://img.shields.io/badge/Discord-4169E1?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/_skuggar)
+
+  [![Gmail](https://img.shields.io/badge/Gmail-8B5E3C?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:Lucas.Skuggar@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_skuggar)
+  [![Discord](https://img.shields.io/badge/Discord-8B5E3C?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/_skuggar)
 </div>
+
 <br>
 
 <!-- Rodapé -->
