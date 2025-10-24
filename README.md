@@ -9,13 +9,13 @@
 <!-- Nome e título -->
 <h1 align="center">ルーカス・イベル</h1>
 <p align="center">
-  Olá! Eu sou <b>Lucas Iber Dias</b> 👋
+  Olá! Eu me chamo <b>Lucas Iber Dias</b> 
 </p>
 
 <!-- Sobre mim -->
 <p align="center">
   Tenho 18 anos e atualmente sou estudante do <b>Instituto Federal do Paraná – Campus Cascavel</b>, cursando <b>Análise e Desenvolvimento de Sistemas</b>.<br>
-  Ainda não possuo experiência profissional, mas estou em busca da minha primeira oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor. 🚀
+  Ainda não possuo experiência profissional, mas estou em busca da minha primeira oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor.
 </p>
 
 ---
