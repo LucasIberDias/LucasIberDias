@@ -22,7 +22,10 @@
 ---
 
 
-  
+  <!-- Estatísticas do GitHub -->
+<div align="center">
+  <img height="180"
+  src="https://github-readme-stats.vercel.app/api?username=LucasIberDias&show_icons=true&count_private=true&rank_icon=github&theme=transparent&cache_seconds=1800" />
   <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIberDias&layout=compact&theme=tokyonight">
 </p>
