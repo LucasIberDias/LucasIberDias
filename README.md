@@ -26,8 +26,9 @@
   <img height="180"
   src="https://github-readme-stats.vercel.app/api?username=LucasIberDias&show_icons=true&count_private=true&rank_icon=github&theme=transparent&cache_seconds=1800" />
   
-  <img height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIberDias&layout=compact&theme=transparent&cache_seconds=1800" />
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIberDias&layout=compact&theme=tokyonight">
+</p>
 </div>
 
 ---
@@ -70,31 +71,6 @@
   </a>
 
 </div>
-
----
-
-<!-- Seção expandível -->
-<details align="center">
-  <summary><b>📚 Mais Informações</b></summary>
-  <br>
-
-  <h3 align="center">Cursos e Certificados</h3>
-
-  <p align="center">
-    Aqui adicionarei meus certificados futuramente, como os da
-    <a href="https://www.dio.me/" target="_blank">DIO</a>.
-  </p>
-
-  <div align="center">
-    <a href="https://www.dio.me/" target="_blank">
-      <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" 
-      alt="DIO" width="120" />
-    </a>
-    <br>
-    <sub>Certificado Exemplo - <a href="LINK_DO_CERTIFICADO">ver certificado</a></sub>
-  </div>
-
-</details>
 
 ---
 
