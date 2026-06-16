@@ -1,9 +1,9 @@
 <!-- ⭐ README de Lucas Iber Dias -->
 
-<!-- Texto animado -->
+<!-- Texto animado -->  <!-- Sugiro trocar a fonte dessa parte pra uma com a estética mais de "hacker" -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6CA6FF&center=true&vCenter=true&width=500&lines=Seja+bem-vindo!" alt="Typing SVG" />
-</div>
+</div> 
 
 <!-- Nome e título -->
 <h1 align="center">ルーカス・イベル</h1>
