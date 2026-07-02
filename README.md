@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5D4037,50:836953,100:A1887F&text=Lucas%20Dias&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5D4037,50:836953,100:A1887F&text=Lucas%20Iber%20Dias&fontColor=FFFFFF&fontSize=55&animation=scaleIn&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descAlignY=60"/><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A1887F&center=true&vCenter=true&width=700&lines=Se+a+ideia+existe,+a+cria%C3%A7%C3%A3o+%C3%A9+poss%C3%ADvel"/>
 
-### Se a ideia existe, a criação é possível.
 
 </div>
 
@@ -29,10 +28,6 @@ Atualmente desenvolvo projetos voltados para aplicações web, banco de dados e 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,postgres,html,css"/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIberDias&layout=compact&theme=gruvbox_light"
-/>
 
 </div>
 
