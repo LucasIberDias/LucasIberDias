@@ -30,6 +30,10 @@ Atualmente desenvolvo projetos voltados para aplicações web, banco de dados e 
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,postgres,html,css"/>
 
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIberDias&layout=compact&theme=gruvbox_light"
+/>
+
 </div>
 
 <br>
