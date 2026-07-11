@@ -27,7 +27,7 @@ Atualmente desenvolvo projetos voltados para aplicações web, banco de dados e 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,postgres,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,c#,postgres,html,css"/>
 
 </div>
 
