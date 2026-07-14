@@ -64,8 +64,8 @@ Sistema para gerenciamento e organização de coleções de mangás, integrando 
 
 | Certificado | Descrição |
 |-------------|-----------|
-| <img src="imagens/certificado_java" width="250"> | **Java Completo**<br><br>Curso de Java abordando lógica de programação, orientação a objetos e desenvolvimento de sistemas web com spring boot. |
-| <img src="imagens/certificado_c#" width="250"> | **C# Completo**<br><br>Curso completo de C# desde lógica até orientação a objetos, com desenvolvimento em Windows Forms, Dotnet e visual studio. |
+| <img src="imagens/Java_Certificado.pdf" width="250"> | **Java Completo**<br><br>Curso de Java abordando lógica de programação, orientação a objetos e desenvolvimento de sistemas web com spring boot. |
+| <img src="imagens/C#_Certificado.pdf" width="250"> | **C# Completo**<br><br>Curso completo de C# desde lógica até orientação a objetos, com desenvolvimento em Windows Forms, Dotnet e visual studio. |
 
 </details>
 
