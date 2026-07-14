@@ -38,7 +38,7 @@ Atualmente desenvolvo projetos voltados para aplicações web, banco de dados e 
 
 ### MangaSensei
 
-Sistema para gerenciamento e organização de coleções de mangás, integrando desenvolvimento web, banco de dados PostgreSQL e automação para coleta de informações.
+Sistema para gerenciamento e organização de coleções de mangás, integrando desenvolvimento web, banco de dados PostgreSQL e automação para coleta de informações, feito em Java + Spring.
 
 </div>
 
