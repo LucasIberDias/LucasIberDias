@@ -54,21 +54,6 @@ Sistema para gerenciamento e organização de coleções de mangás, integrando 
 
 <br>
 
-<h2 align="center"> Certificados</h2>
-
-<details>
-
-<summary align="center"><b>Clique para visualizar os certificados</b></summary>
-
-<br>
-
-| Certificado | Descrição |
-|-------------|-----------|
-| <a href="./imagens/Java_Certificado.pdf" target="_blank"><img src="./imagens/Java_Certificado.png" width="250"></a> | **Java Completo**<br><br>Curso de Java abordando lógica de programação, orientação a objetos e desenvolvimento de sistemas web com Spring Boot. |
-| <a href="./imagens/CSharp_Certificado.pdf" target="_blank"><img src="./imagens/CSharp_Certificado.png" width="250"></a> | **C# Completo**<br><br>Curso completo de C# desde lógica até orientação a objetos, com desenvolvimento em Windows Forms, .NET e Visual Studio. |
-
-</details>
-
 <h2 align="center">Contato</h2>
 
 <div align="center">
