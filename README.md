@@ -109,7 +109,6 @@ Sistema web para apoiar a operação logística, do cadastro de clientes e produ
 |---|---|---|
 | **IFLab** 🏆 | MVP criado em equipe no Hackathon CODIFICA (3º lugar) para organizar laboratórios de Química e Biologia do IFPR. | React, TypeScript |
 | [**MangaSensei**](https://github.com/LucasIberDias/MangaSensei) | Aplicação full stack para catalogar e gerenciar coleções físicas de mangás, com controle de volumes e coleta automatizada de dados. | Java, Spring Boot, React, TypeScript, PostgreSQL |
-| [**invController**](https://github.com/LucasIberDias/invController) | Sistema web para controle de inventário de equipamentos de TI: cadastro, consulta e acompanhamento por filial, responsável e status. | TypeScript |
 | [**ScrapingManga**](https://github.com/LucasIberDias/ScrapingManga) | Automação que pesquisa mangás, percorre as coleções e extrai título, autor, editora, demografia e ISBN de cada volume. | Python, Selenium |
 | [**WorkshopScraping**](https://github.com/LucasIberDias/WorkshopScraping) | Material do workshop de Web Scraping com Python e Selenium que ministrei no IFPR, Campus Cascavel: slides, resumo e exercícios práticos. | Python, Selenium |
 
