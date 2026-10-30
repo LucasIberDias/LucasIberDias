@@ -73,8 +73,6 @@ Projeto experimental de um assistente virtual para Windows, pensado para que o u
 - Pipeline de PLN: pré-processamento do texto, vetorização, treino e avaliação do modelo
 - Mapeamento de cada intenção reconhecida para uma ação executada no computador
 
-<!-- ✏️ Confirme os itens acima com o que você realmente já fez ou está fazendo. Se o repositório estiver público, adicione o link no título -->
-
 **Por que IA?** Já uso Python no trabalho para automatizar tarefas, e quero evoluir para soluções em que o software entende o usuário, em vez de só executar comandos fixos.
 
 <br>
