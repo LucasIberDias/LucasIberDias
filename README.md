@@ -39,7 +39,7 @@ Atualmente, busco uma oportunidade de estágio ou posição júnior na área de 
 | 🏆 **Hackathon** | 3º lugar no Hackathon CODIFICA (IFPR Cascavel, 2026) com o **IFLab**, sistema de gestão de laboratórios |
 | 🛠️ **Experiência prática** | Suporte técnico na Agrícola Andreis, onde também criei scripts em Python para automatizar consultas e cálculos |
 | 👨‍🏫 **Ensino** | Bolsista do projeto de extensão JogLog (lógica de programação e jogos com alunos do Ensino Fundamental II) e instrutor de workshop de Web Scraping no IFPR |
-| 🤖 **IA e voz** | Desenvolvendo um assistente virtual por voz com reconhecimento de intenções, usando Python, Scikit-Learn e conceitos de PLN |
+| 🤖 **IA e Machine Learning** | Modelo de regressão que prevê a nota de animes no MyAnimeList (R² de 0,49, interface em Streamlit) e um assistente virtual por voz em desenvolvimento, com reconhecimento de intenções e PLN |
 
 <br>
 
@@ -51,7 +51,7 @@ Atualmente, busco uma oportunidade de estágio ou posição júnior na área de 
 |:---:|:---:|
 | **Back-end** | <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres" alt="Back-end"/> |
 | **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,vite,mui,js,html,css" alt="Front-end"/> |
-| **Automação e IA** | <img src="https://skillicons.dev/icons?i=python" alt="Python"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/> |
+| **Automação e IA** | <img src="https://skillicons.dev/icons?i=python" alt="Python"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/> |
 | **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas"/> |
 
 </div>
@@ -77,7 +77,28 @@ Projeto experimental de um assistente virtual para Windows, pensado para que o u
 
 <br>
 
-<h2 align="center">Projeto em destaque</h2>
+<h2 align="center">Projetos em destaque</h2>
+
+### [MangaSensei](https://github.com/LucasIberDias/MangaSensei): gestão de coleções de mangás
+
+Aplicação full stack para catalogar e gerenciar coleções físicas de mangás. A ideia é substituir listas soltas e anotações por um sistema que mostra, de forma organizada, quais volumes de cada coleção já foram adquiridos e quais ainda faltam. Interface em React consumindo uma API REST em Spring Boot, com persistência em PostgreSQL e coleta automatizada dos dados das obras.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+**O que o projeto faz**
+
+- Cadastro e organização de coleções físicas de mangás
+- Controle de volumes de cada coleção (o que já tenho e o que falta)
+- Coleta automatizada de dados das obras, como título, autor, editora, demografia e ISBN
+- Consulta da coleção por meio de uma interface web
+
+**Decisões técnicas**
+
+- Separação entre front-end (React + TypeScript) e back-end (API REST em Spring Boot)
+- Automação da coleta de dados para evitar cadastro manual volume por volume, aproveitando a experiência do [ScrapingManga](https://github.com/LucasIberDias/ScrapingManga)
+- Modelagem relacional em PostgreSQL para coleções, obras e volumes
+
+<br>
 
 ### [LogSensei](https://github.com/LucasIberDias/LogSensei): gestão logística
 
@@ -106,7 +127,7 @@ Sistema web para apoiar a operação logística, do cadastro de clientes e produ
 | Projeto | Descrição | Stack |
 |---|---|---|
 | **IFLab** 🏆 | MVP criado em equipe no Hackathon CODIFICA (3º lugar) para organizar laboratórios de Química e Biologia do IFPR. | React, TypeScript |
-| [**MangaSensei**](https://github.com/LucasIberDias/MangaSensei) | Aplicação full stack para catalogar e gerenciar coleções físicas de mangás, com controle de volumes e coleta automatizada de dados. | Java, Spring Boot, React, TypeScript, PostgreSQL |
+| [**ModeloSimples**](https://github.com/LucasIberDias/ModeloSimples) | Modelo de regressão linear que prevê a nota de animes no MyAnimeList a partir de indicadores de popularidade (base com mais de 15 mil animes, R² de 0,49), com interface em Streamlit para testar previsões. | Python, Scikit-Learn, pandas, Streamlit |
 | [**ScrapingManga**](https://github.com/LucasIberDias/ScrapingManga) | Automação que pesquisa mangás, percorre as coleções e extrai título, autor, editora, demografia e ISBN de cada volume. | Python, Selenium |
 | [**WorkshopScraping**](https://github.com/LucasIberDias/WorkshopScraping) | Material do workshop de Web Scraping com Python e Selenium que ministrei no IFPR, Campus Cascavel: slides, resumo e exercícios práticos. | Python, Selenium |
 
