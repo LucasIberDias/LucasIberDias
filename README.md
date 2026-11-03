@@ -126,11 +126,10 @@ Sistema web para apoiar a operação logística, do cadastro de clientes e produ
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **IFLab** 🏆 | MVP criado em equipe no Hackathon CODIFICA (3º lugar) para organizar laboratórios de Química e Biologia do IFPR. | React, TypeScript |
+| [**IFLab**](https://github.com/LucasIberDias/IFLab.git) | MVP criado em equipe no Hackathon CODIFICA (3º lugar) para organizar laboratórios de Química e Biologia do IFPR. | React, TypeScript |
 | [**ModeloSimples**](https://github.com/LucasIberDias/ModeloSimples) | Modelo de regressão linear que prevê a nota de animes no MyAnimeList a partir de indicadores de popularidade (base com mais de 15 mil animes, R² de 0,49), com interface em Streamlit para testar previsões. | Python, Scikit-Learn, pandas, Streamlit |
 | [**ScrapingManga**](https://github.com/LucasIberDias/ScrapingManga) | Automação que pesquisa mangás, percorre as coleções e extrai título, autor, editora, demografia e ISBN de cada volume. | Python, Selenium |
 | [**WorkshopScraping**](https://github.com/LucasIberDias/WorkshopScraping) | Material do workshop de Web Scraping com Python e Selenium que ministrei no IFPR, Campus Cascavel: slides, resumo e exercícios práticos. | Python, Selenium |
-
 <br>
 
 <h2 align="center">Atividade no GitHub</h2>
