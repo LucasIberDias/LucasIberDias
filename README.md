@@ -91,6 +91,7 @@ Aplicação full stack para catalogar e gerenciar coleções físicas de mangás
 - Controle de volumes de cada coleção (o que já tenho e o que falta)
 - Coleta automatizada de dados das obras, como título, autor, editora, demografia e ISBN
 - Consulta da coleção por meio de uma interface web
+- Coleta de dados via Scrapper
 
 **Decisões técnicas**
 
