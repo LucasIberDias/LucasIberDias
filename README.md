@@ -138,7 +138,7 @@ Sistema web para apoiar a operação logística, do cadastro de clientes e produ
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=LucasIberDias&locale=pt-br&mode=daily&theme=transparent&hide_border=true&ring=836953&fire=A1887F&currStreakLabel=8D6E63&currStreakNum=8D6E63&sideLabels=8D6E63&sideNums=8D6E63&dates=8D6E63" height="150" alt="Estatísticas de contribuição"/>
-
+ 
 </div>
 
 <br>
